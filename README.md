@@ -1,11 +1,9 @@
 # spotify-js
 
-Play spotify music through terminal with node
-
-go to spotify and copy and paste the uri of the music to the app.js file
-
-also fill out your credentials (free accounts work too)
+Stream music from spotify to your terminal
 
 # Usage
 
-node app.js
+``
+  node app.js
+``
