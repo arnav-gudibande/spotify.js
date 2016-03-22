@@ -22,7 +22,7 @@ function onErr(err) {
   return l;
 }
 
-Spotify.login("arnav.gudibande", "2011Veyron", function (err, spotify) {
+Spotify.login("***", "***", function (err, spotify) {
   if(con){
     if (err) throw err;
     var url = "https://api.spotify.com/v1/search?q="+query+"&type=track";
